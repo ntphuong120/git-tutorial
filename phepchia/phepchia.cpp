@@ -14,4 +14,6 @@ int main() {
     float a = 10, b = 4;
 
     print("Phep Chia", phepchia(a, b));
+
+    cout << "The Phuong Dang Hoc Vat Ly";
 }
